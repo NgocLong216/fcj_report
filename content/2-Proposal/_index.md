@@ -181,7 +181,7 @@ The InsightHR platform is built on a serverless architecture using AWS services,
 
 7. **Proposed Architecture Diagram:**
 
-![Diagram](/images/2-Proposal/fix_aws_diagram.drawio.png)
+![Diagram](/images/2-Proposal/fix_aws_diagram.drawio.jpg)
 
 8. **Tools Proposed for This Project:**
 
