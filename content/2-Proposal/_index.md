@@ -8,6 +8,9 @@ pre: " <b> 2. </b> "
 
 **AWS First Cloud AI Journey – Project Plan**
 
+[📥 Download Proposal](/Proposal.pdf)
+
+
 [Project team] – [University] – [Project Name]
 
 [Date]
